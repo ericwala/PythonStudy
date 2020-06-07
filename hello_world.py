@@ -18,11 +18,11 @@ debt = -100
 
 
 # basic string calculation
-my_name = 'Ricardo'
+his_name = 'Ricardo'
 ricardo_is = 'hansome'
-print(my_name + ricardo_is)
-print(my_name, ricardo_is)
-print(my_name + str(money)) # string: word " ' is the same
+print(his_name + ricardo_is)
+print(his_name, ricardo_is)
+print(his_name + str(money)) # string: word " ' is the same
 
 # boolen
 print(2 == 3) # == check if the same, note that memory address is actually checked
